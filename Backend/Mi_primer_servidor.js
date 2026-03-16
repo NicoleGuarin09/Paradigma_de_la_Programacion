@@ -21,6 +21,6 @@ app.get('/json', (req, res) => {
 
 
 app.get('/info', (req, res) => {
-    res.json({Nombre: 'Nicole', Apellido: 'Guarin', Edad: '16', colegio: 'La Salle de Campoamo'});
+    res.json({Nombre: 'Nicole', Apellido: 'Guarin', Edad: '16', colegio: 'La Salle de Campoamor'});
     
 });
