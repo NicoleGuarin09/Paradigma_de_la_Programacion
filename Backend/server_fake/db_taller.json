@@ -1,0 +1,96 @@
+{
+  "Modelos de Carros": [
+    {
+      "Carros": "Avanti",
+      "Formula": null,
+      "last_name": "Santos",
+      "email": "Psittacula krameri",
+      "gender": "Female",
+      "ip_address": "10.161.43.33",
+      "company": "Tambee",
+      "id": "c569"
+    },
+    {
+      "Carros": "Pajero",
+      "Formula": null,
+      "last_name": "Eccleshare",
+      "email": "Crocuta crocuta",
+      "gender": "Male",
+      "ip_address": "81.152.60.115",
+      "company": "Viva",
+      "id": "82ca"
+    },
+    {
+      "Carros": "D350 Club",
+      "Formula": null,
+      "last_name": "Whatford",
+      "email": "Tiliqua scincoides",
+      "gender": "Male",
+      "ip_address": "151.134.161.243",
+      "company": "Skyvu",
+      "id": "05ba"
+    },
+    {
+      "Carros": "Prizm",
+      "Formula": null,
+      "last_name": "Francesc",
+      "email": "Trichosurus vulpecula",
+      "gender": "Female",
+      "ip_address": "221.126.36.83",
+      "company": "Dynabox",
+      "id": "9673"
+    },
+    {
+      "Carros": "xB",
+      "Formula": null,
+      "last_name": "Griffey",
+      "email": "Canis lupus",
+      "gender": "Non-binary",
+      "ip_address": "232.122.252.85",
+      "company": "Brainbox",
+      "id": "9636"
+    },
+    {
+      "Carros": "LR2",
+      "Formula": null,
+      "last_name": "Layne",
+      "email": "Diomedea irrorata",
+      "gender": "Female",
+      "ip_address": "124.248.92.18",
+      "company": "Yotz",
+      "id": "4340"
+    },
+    {
+      "Carros": "Topaz",
+      "Formula": null,
+      "last_name": "Newbold",
+      "email": "Milvago chimachima",
+      "gender": "Mally",
+      "ip_address": "90.156.205.39",
+      "company": "Babbleset",
+      "id": "c23b"
+    },
+    {
+      "id": "d027"
+    },
+    {
+      "id": "be28"
+    },
+    {
+      "id": "09xt",
+      "last name": "Deifords",
+      "ip_adress": "9.21.6.120"
+    },
+    {
+      "id": "09xt",
+      "last name": "Forts",
+      "ip_adress": "9.21.60.05"
+    },
+    {
+      "id": "09xt",
+      "last name": "Capibara",
+      "ip_adress": "89.35.60.05"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
